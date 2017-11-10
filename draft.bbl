@@ -1,0 +1,363 @@
+\begin{thebibliography}{66}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Alves} \& {Bouy}(2012)}]{Alves2012}
+{Alves}, J. \& {Bouy}, H. 2012, \aap, 547, A97
+
+\bibitem[{{Bally}(2008)}]{Bally2008}
+{Bally}, J. 2008, {Overview of the Orion Complex}, ed. B.~{Reipurth}, 459
+
+\bibitem[{{Banerjee} {et~al.}(2005){Banerjee}, {Dhillon}, {Ghosh}, \&
+  {Sra}}]{vmFPaper}
+{Banerjee}, A., {Dhillon}, I.~S., {Ghosh}, J., \& {Sra}, S. 2005, Journal of
+  Machine Learning Research, 6, 1345
+
+\bibitem[{{Beccari} {et~al.}(2017){Beccari}, {Petr-Gotzens}, {Boffin},
+  {Romaniello}, {Fedele}, {Carraro}, {De Marchi}, {de Wit}, {Drew}, {Kalari},
+  {Manara}, {Martin}, {Panagia}, {Testi}, {Vink}, {Walsh}, \&
+  {Wright}}]{Beccari2017}
+{Beccari}, G., {Petr-Gotzens}, M.~G., {Boffin}, H.~M.~J., {et~al.} 2017, ArXiv
+  e-prints [\eprint[arXiv]{1705.09496}]
+
+\bibitem[{{Bell} {et~al.}(2013){Bell}, {Naylor}, {Mayne}, {Jeffries}, \&
+  {Littlefair}}]{Bell2013}
+{Bell}, C.~P.~M., {Naylor}, T., {Mayne}, N.~J., {Jeffries}, R.~D., \&
+  {Littlefair}, S.~P. 2013, \mnras, 434, 806
+
+\bibitem[{{Blaauw}(1964)}]{Blaauw1964}
+{Blaauw}, A. 1964, \araa, 2, 213
+
+\bibitem[{{Bouy} \& {Alves}(2015)}]{Bouy2015}
+{Bouy}, H. \& {Alves}, J. 2015, \aap, 584, A26
+
+\bibitem[{{Bouy} {et~al.}(2014){Bouy}, {Alves}, {Bertin}, {Sarro}, \&
+  {Barrado}}]{Bouy2014}
+{Bouy}, H., {Alves}, J., {Bertin}, E., {Sarro}, L.~M., \& {Barrado}, D. 2014,
+  \aap, 564, A29
+
+\bibitem[{{Bressan} {et~al.}(2012){Bressan}, {Marigo}, {Girardi}, {Salasnich},
+  {Dal Cero}, {Rubele}, \& {Nanni}}]{Bressan2012}
+{Bressan}, A., {Marigo}, P., {Girardi}, L., {et~al.} 2012, \mnras, 427, 127
+
+\bibitem[{{Brice{\~n}o} {et~al.}(2007){Brice{\~n}o}, {Hartmann},
+  {Hern{\'a}ndez}, {Calvet}, {Vivas}, {Furesz}, \&
+  {Szentgyorgyi}}]{Briceno2007}
+{Brice{\~n}o}, C., {Hartmann}, L., {Hern{\'a}ndez}, J., {et~al.} 2007, \apj,
+  661, 1119
+
+\bibitem[{{Briceno}(2008)}]{Briceno2008}
+{Briceno}, C. 2008, {The Dispersed Young Population in Orion}, ed.
+  B.~{Reipurth}, 838
+
+\bibitem[{{Brown} {et~al.}(1994){Brown}, {de Geus}, \& {de Zeeuw}}]{Brown1994}
+{Brown}, A.~G.~A., {de Geus}, E.~J., \& {de Zeeuw}, P.~T. 1994, \aap, 289, 101
+
+\bibitem[{{Carraro} {et~al.}(2008){Carraro}, {Villanova}, {Demarque}, {Moni
+  Bidin}, \& {McSwain}}]{Carraro2008}
+{Carraro}, G., {Villanova}, S., {Demarque}, P., {Moni Bidin}, C., \& {McSwain},
+  M.~V. 2008, \mnras, 386, 1625
+
+\bibitem[{{Carrasco} {et~al.}(2016){Carrasco}, {Evans}, {Montegriffo}, {Jordi},
+  {van Leeuwen}, {Riello}, {Voss}, {De Angeli}, {Busso}, {Fabricius},
+  {Cacciari}, {Weiler}, {Pancino}, {Brown}, {Holland}, {Burgess}, {Osborne},
+  {Altavilla}, {Gebran}, {Ragaini}, {Galleti}, {Cocozza}, {Marinoni},
+  {Bellazzini}, {Bragaglia}, {Federici}, \&
+  {Balaguer-N{\'u}{\~n}ez}}]{Carrasco2016}
+{Carrasco}, J.~M., {Evans}, D.~W., {Montegriffo}, P., {et~al.} 2016, \aap, 595,
+  A7
+
+\bibitem[{{Chambers} {et~al.}(2016){Chambers}, {Magnier}, {Metcalfe},
+  {Flewelling}, {Huber}, {Waters}, {Denneau}, {Draper}, {Farrow}, {Finkbeiner},
+  {Holmberg}, {Koppenhoefer}, {Price}, {Saglia}, {Schlafly}, {Smartt},
+  {Sweeney}, {Wainscoat}, {Burgett}, {Grav}, {Heasley}, {Hodapp}, {Jedicke},
+  {Kaiser}, {Kudritzki}, {Luppino}, {Lupton}, {Monet}, {Morgan}, {Onaka},
+  {Stubbs}, {Tonry}, {Banados}, {Bell}, {Bender}, {Bernard}, {Botticella},
+  {Casertano}, {Chastel}, {Chen}, {Chen}, {Cole}, {Deacon}, {Frenk},
+  {Fitzsimmons}, {Gezari}, {Goessl}, {Goggia}, {Goldman}, {Grebel}, {Hambly},
+  {Hasinger}, {Heavens}, {Heckman}, {Henderson}, {Henning}, {Holman}, {Hopp},
+  {Ip}, {Isani}, {Keyes}, {Koekemoer}, {Kotak}, {Long}, {Lucey}, {Liu},
+  {Martin}, {McLean}, {Morganson}, {Murphy}, {Nieto-Santisteban}, {Norberg},
+  {Peacock}, {Pier}, {Postman}, {Primak}, {Rae}, {Rest}, {Riess}, {Riffeser},
+  {Rix}, {Roser}, {Schilbach}, {Schultz}, {Scolnic}, {Szalay}, {Seitz},
+  {Shiao}, {Small}, {Smith}, {Soderblom}, {Taylor}, {Thakar}, {Thiel},
+  {Thilker}, {Urata}, {Valenti}, {Walter}, {Watters}, {Werner}, {White},
+  {Wood-Vasey}, \& {Wyse}}]{Chambers2016}
+{Chambers}, K.~C., {Magnier}, E.~A., {Metcalfe}, N., {et~al.} 2016, ArXiv
+  e-prints [\eprint[arXiv]{1612.05560}]
+
+\bibitem[{{Chen} {et~al.}(2014){Chen}, {Girardi}, {Bressan}, {Marigo},
+  {Barbieri}, \& {Kong}}]{Chen2014}
+{Chen}, Y., {Girardi}, L., {Bressan}, A., {et~al.} 2014, \mnras, 444, 2525
+
+\bibitem[{{Choi} {et~al.}(2016){Choi}, {Dotter}, {Conroy}, {Cantiello},
+  {Paxton}, \& {Johnson}}]{Mist1}
+{Choi}, J., {Dotter}, A., {Conroy}, C., {et~al.} 2016, \apj, 823, 102
+
+\bibitem[{{Da Rio} {et~al.}(2016){Da Rio}, {Tan}, {Covey}, {Cottaar}, {Foster},
+  {Cullen}, {Tobin}, {Kim}, {Meyer}, {Nidever}, {Stassun}, {Chojnowski},
+  {Flaherty}, {Majewski}, {Skrutskie}, {Zasowski}, \& {Pan}}]{DaRio2016}
+{Da Rio}, N., {Tan}, J.~C., {Covey}, K.~R., {et~al.} 2016, \apj, 818, 59
+
+\bibitem[{{Da Rio} {et~al.}(2014){Da Rio}, {Tan}, \& {Jaehnig}}]{DaRio2014}
+{Da Rio}, N., {Tan}, J.~C., \& {Jaehnig}, K. 2014, \apj, 795, 55
+
+\bibitem[{{de Bruijne}(1999)}]{deBruijne1999}
+{de Bruijne}, J.~H.~J. 1999, \mnras, 306, 381
+
+\bibitem[{{de Zeeuw} {et~al.}(1999){de Zeeuw}, {Hoogerwerf}, {de Bruijne},
+  {Brown}, \& {Blaauw}}]{deZeeuw1999}
+{de Zeeuw}, P.~T., {Hoogerwerf}, R., {de Bruijne}, J.~H.~J., {Brown}, A.~G.~A.,
+  \& {Blaauw}, A. 1999, \aj, 117, 354
+
+\bibitem[{{Dotter}(2016)}]{Mist0}
+{Dotter}, A. 2016, \apjs, 222, 8
+
+\bibitem[{{Fang} {et~al.}(2017){Fang}, {Kim}, {Pascucci}, {Apai}, {Zhang},
+  {Sicilia-Aguilar}, {Alonso-Mart{\'{\i}}nez}, {Eiroa}, \& {Wang}}]{Fang2017}
+{Fang}, M., {Kim}, J.~S., {Pascucci}, I., {et~al.} 2017, ArXiv e-prints
+  [\eprint[arXiv]{1703.06948}]
+
+\bibitem[{{Finkbeiner}(2003)}]{Finkbeiner2003}
+{Finkbeiner}, D.~P. 2003, \apjs, 146, 407
+
+\bibitem[{{Gaia Collaboration} {et~al.}(2016{\natexlab{a}}){Gaia
+  Collaboration}, {Brown}, {Vallenari}, {Prusti}, {de Bruijne}, {Mignard},
+  {Drimmel}, {Babusiaux}, {Bailer-Jones}, {Bastian}, \& et~al.}]{Brown2016}
+{Gaia Collaboration}, {Brown}, A.~G.~A., {Vallenari}, A., {et~al.}
+  2016{\natexlab{a}}, \aap, 595, A2
+
+\bibitem[{{Gaia Collaboration} {et~al.}(2016{\natexlab{b}}){Gaia
+  Collaboration}, {Prusti}, {de Bruijne}, {Brown}, {Vallenari}, {Babusiaux},
+  {Bailer-Jones}, {Bastian}, {Biermann}, {Evans}, \& et~al.}]{Prusti2016}
+{Gaia Collaboration}, {Prusti}, T., {de Bruijne}, J.~H.~J., {et~al.}
+  2016{\natexlab{b}}, \aap, 595, A1
+
+\bibitem[{{Getman} {et~al.}(2014){Getman}, {Feigelson}, \& {Kuhn}}]{Getman2014}
+{Getman}, K.~V., {Feigelson}, E.~D., \& {Kuhn}, M.~A. 2014, \apj, 787, 109
+
+\bibitem[{{Hern{\'a}ndez} {et~al.}(2007){Hern{\'a}ndez}, {Hartmann}, {Megeath},
+  {Gutermuth}, {Muzerolle}, {Calvet}, {Vivas}, {Brice{\~n}o}, {Allen},
+  {Stauffer}, {Young}, \& {Fazio}}]{Hernandez2007}
+{Hern{\'a}ndez}, J., {Hartmann}, L., {Megeath}, T., {et~al.} 2007, \apj, 662,
+  1067
+
+\bibitem[{{Hirota} {et~al.}(2007){Hirota}, {Bushimata}, {Choi}, {Honma},
+  {Imai}, {Iwadate}, {Jike}, {Kameno}, {Kameya}, {Kamohara}, {Kan-Ya},
+  {Kawaguchi}, {Kijima}, {Kim}, {Kobayashi}, {Kuji}, {Kurayama}, {Manabe},
+  {Maruyama}, {Matsui}, {Matsumoto}, {Miyaji}, {Nagayama}, {Nakagawa},
+  {Nakamura}, {Oh}, {Omodaka}, {Oyama}, {Sakai}, {Sasao}, {Sato}, {Sato},
+  {Shibata}, {Shintani}, {Tamura}, {Tsushima}, \& {Yamashita}}]{Hirota2007}
+{Hirota}, T., {Bushimata}, T., {Choi}, Y.~K., {et~al.} 2007, \pasj, 59, 897
+
+\bibitem[{{Hoogerwerf} \& {Aguilar}(1999)}]{Hoogerwerf1999}
+{Hoogerwerf}, R. \& {Aguilar}, L.~A. 1999, \mnras, 306, 394
+
+\bibitem[{Hunter(2007)}]{matplotlib}
+Hunter, J.~D. 2007, Computing In Science \& Engineering, 9, 90
+
+\bibitem[{{Jeffries}(2007)}]{Jeffries2007}
+{Jeffries}, R.~D. 2007, \mnras, 376, 1109
+
+\bibitem[{{Jeffries} {et~al.}(2006){Jeffries}, {Maxted}, {Oliveira}, \&
+  {Naylor}}]{Jeffries2006}
+{Jeffries}, R.~D., {Maxted}, P.~F.~L., {Oliveira}, J.~M., \& {Naylor}, T. 2006,
+  \mnras, 371, L6
+
+\bibitem[{{Jordi} {et~al.}(2010){Jordi}, {Gebran}, {Carrasco}, {de Bruijne},
+  {Voss}, {Fabricius}, {Knude}, {Vallenari}, {Kohley}, \& {Mora}}]{Jordi2010}
+{Jordi}, C., {Gebran}, M., {Carrasco}, J.~M., {et~al.} 2010, \aap, 523, A48
+
+\bibitem[{{J{\o}rgensen} \& {Lindegren}(2005)}]{Jorgensen2005}
+{J{\o}rgensen}, B.~R. \& {Lindegren}, L. 2005, \aap, 436, 127
+
+\bibitem[{{Kim} {et~al.}(2008){Kim}, {Hirota}, {Honma}, {Kobayashi},
+  {Bushimata}, {Choi}, {Imai}, {Iwadate}, {Jike}, {Kameno}, {Kameya},
+  {Kamohara}, {Kan-Ya}, {Kawaguchi}, {Kuji}, {Kurayama}, {Manabe}, {Matsui},
+  {Matsumoto}, {Miyaji}, {Nagayama}, {Nakagawa}, {Oh}, {Omodaka}, {Oyama},
+  {Sakai}, {Sasao}, {Sato}, {Sato}, {Shibata}, {Tamura}, \&
+  {Yamashita}}]{Kim2008}
+{Kim}, M.~K., {Hirota}, T., {Honma}, M., {et~al.} 2008, \pasj, 60, 991
+
+\bibitem[{{Kounkel} {et~al.}(2017{\natexlab{a}}){Kounkel}, {Hartmann},
+  {Calvet}, \& {Megeath}}]{Kounkel2017b}
+{Kounkel}, M., {Hartmann}, L., {Calvet}, N., \& {Megeath}, T.
+  2017{\natexlab{a}}, ArXiv e-prints [\eprint[arXiv]{1705.07922}]
+
+\bibitem[{{Kounkel} {et~al.}(2017{\natexlab{b}}){Kounkel}, {Hartmann},
+  {Loinard}, {Ortiz-Le{\'o}n}, {Mioduszewski}, {Rodr{\'{\i}}guez}, {Dzib},
+  {Torres}, {Pech}, {Galli}, {Rivera}, {Boden}, {Evans}, {Brice{\~n}o}, \&
+  {Tobin}}]{Kounkel2017a}
+{Kounkel}, M., {Hartmann}, L., {Loinard}, L., {et~al.} 2017{\natexlab{b}},
+  \apj, 834, 142
+
+\bibitem[{{Kraus} {et~al.}(2009){Kraus}, {Weigelt}, {Balega}, {Docobo},
+  {Hofmann}, {Preibisch}, {Schertl}, {Tamazian}, {Driebe}, {Ohnaka}, {Petrov},
+  {Sch{\"o}ller}, \& {Smith}}]{Kraus2009}
+{Kraus}, S., {Weigelt}, G., {Balega}, Y.~Y., {et~al.} 2009, \aap, 497, 195
+
+\bibitem[{{Kubiak} {et~al.}(2016){Kubiak}, {Alves}, {Bouy}, {Sarro}, {Ascenso},
+  {Burkert}, {Forbrich}, {Gro{\ss}schedl}, {Hacar}, {Hasenberger}, {Lombardi},
+  {Meingast}, {K{\"o}hler}, \& {Teixeira}}]{Kubiak2016}
+{Kubiak}, K., {Alves}, J., {Bouy}, H., {et~al.} 2016, ArXiv e-prints
+  [\eprint[arXiv]{1609.04948}]
+
+\bibitem[{{Lindegren} {et~al.}(2016){Lindegren}, {Lammers}, {Bastian},
+  {Hern{\'a}ndez}, {Klioner}, {Hobbs}, {Bombrun}, {Michalik}, {Ramos-Lerate},
+  {Butkevich}, {Comoretto}, {Joliet}, {Holl}, {Hutton}, {Parsons},
+  {Steidelm{\"u}ller}, {Abbas}, {Altmann}, {Andrei}, {Anton}, {Bach},
+  {Barache}, {Becciani}, {Berthier}, {Bianchi}, {Biermann}, {Bouquillon},
+  {Bourda}, {Br{\"u}semeister}, {Bucciarelli}, {Busonero}, {Carlucci},
+  {Casta{\~n}eda}, {Charlot}, {Clotet}, {Crosta}, {Davidson}, {de Felice},
+  {Drimmel}, {Fabricius}, {Fienga}, {Figueras}, {Fraile}, {Gai}, {Garralda},
+  {Geyer}, {Gonz{\'a}lez-Vidal}, {Guerra}, {Hambly}, {Hauser}, {Jordan},
+  {Lattanzi}, {Lenhardt}, {Liao}, {L{\"o}ffler}, {McMillan}, {Mignard}, {Mora},
+  {Morbidelli}, {Portell}, {Riva}, {Sarasso}, {Serraller}, {Siddiqui}, {Smart},
+  {Spagna}, {Stampa}, {Steele}, {Taris}, {Torra}, {van Reeven}, {Vecchiato},
+  {Zschocke}, {de Bruijne}, {Gracia}, {Raison}, {Lister}, {Marchant},
+  {Messineo}, {Soffel}, {Osorio}, {de Torres}, \& {O'Mullane}}]{Lindegren2016}
+{Lindegren}, L., {Lammers}, U., {Bastian}, U., {et~al.} 2016, \aap, 595, A4
+
+\bibitem[{{Lombardi} {et~al.}(2017){Lombardi}, {Lada}, \&
+  {Alves}}]{Lombardi2017}
+{Lombardi}, M., {Lada}, C.~J., \& {Alves}, J. 2017, ArXiv e-prints
+  [\eprint[arXiv]{1707.08594}]
+
+\bibitem[{{Magnier} {et~al.}(2016){Magnier}, {Schlafly}, {Finkbeiner}, {Tonry},
+  {Goldman}, {R{\"o}ser}, {Schilbach}, {Chambers}, {Flewelling}, {Huber},
+  {Price}, {Sweeney}, {Waters}, {Denneau}, {Draper}, {Hodapp}, {Jedicke},
+  {Kudritzki}, {Metcalfe}, {Stubbs}, \& {Wainscoast}}]{Magnier2016}
+{Magnier}, E.~A., {Schlafly}, E.~F., {Finkbeiner}, D.~P., {et~al.} 2016, ArXiv
+  e-prints [\eprint[arXiv]{1612.05242}]
+
+\bibitem[{{Mathieu}(2008)}]{Mathieu2008}
+{Mathieu}, R.~D. 2008, {The {$\lambda$} Orionis Star Forming Region}, ed.
+  B.~{Reipurth}, 757
+
+\bibitem[{{Menten} {et~al.}(2007){Menten}, {Reid}, {Forbrich}, \&
+  {Brunthaler}}]{Menten2007}
+{Menten}, K.~M., {Reid}, M.~J., {Forbrich}, J., \& {Brunthaler}, A. 2007, \aap,
+  474, 515
+
+\bibitem[{{Michalik} {et~al.}(2015){Michalik}, {Lindegren}, \&
+  {Hobbs}}]{Michalik2015}
+{Michalik}, D., {Lindegren}, L., \& {Hobbs}, D. 2015, \aap, 574, A115
+
+\bibitem[{{Muench} {et~al.}(2008){Muench}, {Getman}, {Hillenbrand}, \&
+  {Preibisch}}]{Muench2008}
+{Muench}, A., {Getman}, K., {Hillenbrand}, L., \& {Preibisch}, T. 2008, {Star
+  Formation in the Orion Nebula I: Stellar Content}, ed. B.~{Reipurth}, 483
+
+\bibitem[{{Ochsendorf} {et~al.}(2015){Ochsendorf}, {Brown}, {Bally}, \&
+  {Tielens}}]{Ochsendorf2015}
+{Ochsendorf}, B.~B., {Brown}, A.~G.~A., {Bally}, J., \& {Tielens}, A.~G.~G.~M.
+  2015, \apj, 808, 111
+
+\bibitem[{{Olver} {et~al.}(2010){Olver}, {Lozier}, F., \& W.}]{NIST}
+{Olver}, F.~W.~J., {Lozier}, D.~W., F., B.~R., \& W., C.~C., eds. 2010, NIST
+  Handbook of Mathematical Functions (Cambridge University Press)
+
+\bibitem[{Pedregosa {et~al.}(2011)Pedregosa, Varoquaux, Gramfort, Michel,
+  Thirion, Grisel, Blondel, Prettenhofer, Weiss, Dubourg, Vanderplas, Passos,
+  Cournapeau, Brucher, Perrot, \& Duchesnay}]{scikit-learn}
+Pedregosa, F., Varoquaux, G., Gramfort, A., {et~al.} 2011, Journal of Machine
+  Learning Research, 12, 2825
+
+\bibitem[{P\'erez \& Granger(2007)}]{ipython}
+P\'erez, F. \& Granger, B.~E. 2007, Computing in Science and Engineering, 9, 21
+
+\bibitem[{{Perryman}(1997)}]{Perryman1997}
+{Perryman}, M.~A.~C. 1997, in ESA Special Publication, Vol. 402, Hipparcos -
+  Venice '97, ed. R.~M. {Bonnet}, E.~{H{\o}g}, P.~L. {Bernacca}, L.~{Emiliani},
+  A.~{Blaauw}, C.~{Turon}, J.~{Kovalevsky}, L.~{Lindegren}, H.~{Hassan},
+  M.~{Bouffard}, B.~{Strim}, D.~{Heger}, M.~A.~C. {Perryman}, \& L.~{Woltjer},
+  1--4
+
+\bibitem[{{Planck Collaboration} {et~al.}(2014){Planck Collaboration},
+  {Abergel}, {Ade}, {Aghanim}, {Alves}, {Aniano}, {Armitage-Caplan}, {Arnaud},
+  {Ashdown}, {Atrio-Barandela}, \& et~al.}]{Planck2014}
+{Planck Collaboration}, {Abergel}, A., {Ade}, P.~A.~R., {et~al.} 2014, \aap,
+  571, A11
+
+\bibitem[{{Reggiani} {et~al.}(2011){Reggiani}, {Robberto}, {Da Rio}, {Meyer},
+  {Soderblom}, \& {Ricci}}]{Reggiani2011}
+{Reggiani}, M., {Robberto}, M., {Da Rio}, N., {et~al.} 2011, \aap, 534, A83
+
+\bibitem[{{Sandstrom} {et~al.}(2007){Sandstrom}, {Peek}, {Bower}, {Bolatto}, \&
+  {Plambeck}}]{Sandstrom2007}
+{Sandstrom}, K.~M., {Peek}, J.~E.~G., {Bower}, G.~C., {Bolatto}, A.~D., \&
+  {Plambeck}, R.~L. 2007, \apj, 667, 1161
+
+\bibitem[{{Schlafly} {et~al.}(2015){Schlafly}, {Green}, {Finkbeiner}, {Rix},
+  {Burgett}, {Chambers}, {Draper}, {Kaiser}, {Martin}, {Metcalfe}, {Morgan},
+  {Price}, {Tonry}, {Wainscoat}, \& {Waters}}]{Schlafly2015}
+{Schlafly}, E.~F., {Green}, G., {Finkbeiner}, D.~P., {et~al.} 2015, \apj, 799,
+  116
+
+\bibitem[{{Sherry} {et~al.}(2008){Sherry}, {Walter}, {Wolk}, \&
+  {Adams}}]{Sherry2008}
+{Sherry}, W.~H., {Walter}, F.~M., {Wolk}, S.~J., \& {Adams}, N.~R. 2008, \aj,
+  135, 1616
+
+\bibitem[{{Skrutskie} {et~al.}(2006){Skrutskie}, {Cutri}, {Stiening},
+  {Weinberg}, {Schneider}, {Carpenter}, {Beichman}, {Capps}, {Chester},
+  {Elias}, {Huchra}, {Liebert}, {Lonsdale}, {Monet}, {Price}, {Seitzer},
+  {Jarrett}, {Kirkpatrick}, {Gizis}, {Howard}, {Evans}, {Fowler}, {Fullmer},
+  {Hurt}, {Light}, {Kopan}, {Marsh}, {McCallon}, {Tam}, {Van Dyk}, \&
+  {Wheelock}}]{Skrutskie2006}
+{Skrutskie}, M.~F., {Cutri}, R.~M., {Stiening}, R., {et~al.} 2006, \aj, 131,
+  1163
+
+\bibitem[{{Stassun} {et~al.}(2004){Stassun}, {Mathieu}, {Vaz}, {Stroud}, \&
+  {Vrba}}]{Stassun2004}
+{Stassun}, K.~G., {Mathieu}, R.~D., {Vaz}, L.~P.~R., {Stroud}, N., \& {Vrba},
+  F.~J. 2004, \apjs, 151, 357
+
+\bibitem[{{Tang} {et~al.}(2014){Tang}, {Bressan}, {Rosenfield}, {Slemer},
+  {Marigo}, {Girardi}, \& {Bianchi}}]{Tang2014}
+{Tang}, J., {Bressan}, A., {Rosenfield}, P., {et~al.} 2014, \mnras, 445, 4287
+
+\bibitem[{{Taylor}(2005)}]{topcat}
+{Taylor}, M.~B. 2005, in Astronomical Society of the Pacific Conference Series,
+  Vol. 347, Astronomical Data Analysis Software and Systems XIV, ed.
+  P.~{Shopbell}, M.~{Britton}, \& R.~{Ebert}, 29
+
+\bibitem[{{Valls-Gabaud}(2014)}]{Valls-Gabaud2014}
+{Valls-Gabaud}, D. 2014, in EAS Publications Series, Vol.~65, EAS Publications
+  Series, 225--265
+
+\bibitem[{{van Leeuwen} {et~al.}(2017){van Leeuwen}, {Evans}, {De Angeli},
+  {Jordi}, {Busso}, {Cacciari}, {Riello}, {Pancino}, {Altavilla}, {Brown},
+  {Burgess}, {Carrasco}, {Cocozza}, {Cowell}, {Davidson}, {De Luise},
+  {Fabricius}, {Galleti}, {Gilmore}, {Giuffrida}, {Hambly}, {Harrison},
+  {Hodgkin}, {Holland}, {MacDonald}, {Marinoni}, {Montegriffo}, {Osborne},
+  {Ragaini}, {Richards}, {Rowell}, {Voss}, {Walton}, {Weiler}, {Castellani},
+  {Delgado}, {H{\o}g}, {van Leeuwen}, {Millar}, {Pagani}, {Piersimoni},
+  {Pulone}, {Rixon}, {Suess}, {Wyrzykowski}, {Yoldas}, {Alecu}, {Allan},
+  {Balaguer-N{\'u}{\~n}ez}, {Barstow}, {Bellazzini}, {Belokurov},
+  {Blagorodnova}, {Bonfigli}, {Bragaglia}, {Brown}, {Bunclark}, {Buonanno},
+  {Burgon}, {Campbell}, {Collins}, {Cross}, {Ducourant}, {van Elteren},
+  {Evans}, {Federici}, {Fern{\'a}ndez-Hern{\'a}ndez}, {Figueras}, {Fraser},
+  {Fyfe}, {Gebran}, {Heyrovsky}, {Holl}, {Holland}, {Iannicola}, {Irwin},
+  {Koposov}, {Krone-Martins}, {Mann}, {Marrese}, {Masana}, {Munari}, {Ortiz},
+  {Ouzounis}, {Peltzer}, {Portell}, {Read}, {Terrett}, {Torra}, {Trager},
+  {Troisi}, {Valentini}, {Vallenari}, \& {Wevers}}]{vanLeeuwen2017}
+{van Leeuwen}, F., {Evans}, D.~W., {De Angeli}, F., {et~al.} 2017, \aap, 599,
+  A32
+
+\bibitem[{{Vanderplas} {et~al.}(2012){Vanderplas}, {Connolly}, {Ivezi{\'c}}, \&
+  {Gray}}]{astroML}
+{Vanderplas}, J., {Connolly}, A., {Ivezi{\'c}}, {\v Z}., \& {Gray}, A. 2012, in
+  Conference on Intelligent Data Understanding (CIDU), 47 --54
+
+\bibitem[{{Walter} {et~al.}(2008){Walter}, {Sherry}, {Wolk}, \&
+  {Adams}}]{Walter2008}
+{Walter}, F.~M., {Sherry}, W.~H., {Wolk}, S.~J., \& {Adams}, N.~R. 2008, {The
+  {$\sigma$} Orionis Cluster}, ed. B.~{Reipurth}, 732
+
+\bibitem[{{Zapatero Osorio} {et~al.}(2002){Zapatero Osorio}, {B{\'e}jar},
+  {Pavlenko}, {Rebolo}, {Allende Prieto}, {Mart{\'{\i}}n}, \& {Garc{\'{\i}}a
+  L{\'o}pez}}]{Zapatero2002}
+{Zapatero Osorio}, M.~R., {B{\'e}jar}, V.~J.~S., {Pavlenko}, Y., {et~al.} 2002,
+  \aap, 384, 937
+
+\end{thebibliography}
